@@ -1,29 +1,11 @@
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Lab | JS BLOG
+
+# Kalvium Lab | JS BLOG
 
 We have learned Object-oriented programming and how class and inheritance work in JavaScript. Now lets work with our Viking friends, applying all of the concepts we have just learned.
 
-## What should you do
-```
-Fork this repo
-Clone this repo
-Practice OOPs Features
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
-
 ## Instructions
-We must write the correct code in the script.js file. In this file you will find the following starter code:
+We must write the correct code in the src/app.js file. In this file you will find the following starter code:
 ```
 class Blog{
 
@@ -37,8 +19,10 @@ constuctor(title,detail){}
 
 }
 ```
+Make sure that all of your test cases are passed. Test cases can be checked - by opening -> index.html file.
+
 ### Progression 1: WRITE UP
-Modify the Blog class and add two methods to it: addTitle(), and addDescription().
+Modify the Blog class and add two **methods** to it: addTitle(), and addDescription().
 
 ### class
 - should receive two arguments title and detail.
@@ -67,8 +51,18 @@ Modify the Blog class and add two methods to it: addTitle(), and addDescription(
 
 ### Progression 2:  SHOW EM UP
 
-Setup `EventListeners`, so that we can display the entire blog for the users
+Setup `EventListeners`, so that we can display the entire blog for the users. 
+
+Create two **functions** -
+
+1. `helperAddPost()` - This function is called, when the user clicks on the Add new Post button.
+                       Upon clicking on the button, the popup frame should display and close.
+                       ( HINT: Do check the CSS )
+
+2. `helperPost()` -  This function is called, when the user enters a title and the detail, and wants to
+                     submit that information. So, when the submit is clicked, this function should be called. After clicking on the submit button, the content should be displayed on the screen itself.
+
 ![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-3.png)
 
-Happy Coding ProGrads❤️
+Happy Coding Kalvium❤️
 
