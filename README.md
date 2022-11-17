@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/201395942-2eb263fa-89b8-46bb-95f0-7d5d295074db.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 
 # Kalvium Lab | JS BLOG
@@ -46,9 +46,9 @@ Modify the Blog class and add two **methods** to it: addTitle(), and addDescript
 - should be a method.
 - should have 0 arguments.
 - should display the description as a paragraph.
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-1.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/blog-post-1.png)
 
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-2.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/blog-post-2.png)
 
 ### Progression 2:  SHOW EM UP
 
@@ -63,7 +63,7 @@ Create two **functions** -
 2. `helperPost()` -  This function is called, when the user enters a title and the detail, and wants to
                      submit that information. So, when the submit is clicked, this function should be called. After clicking on the submit button, the content should be displayed on the screen itself.
 
-![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-3.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/blog-post-3.png)
 
 Happy Coding Kalvium❤️
 
