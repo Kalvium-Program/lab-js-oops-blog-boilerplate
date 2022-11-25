@@ -10,6 +10,10 @@ Before starting have a look through the link below - to get an idea as how to ap
 
 [How to approach a lab](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
 
+Along with a test page, you will also have a webpage -- which will display all your frontend work.
+
+You can toggle between the webpage and testpage - by clicking on the respective buttons.
+
 ## Instructions
 
 We must write the correct code in the src/app.js file. In this file you will find the following starter code:
@@ -28,8 +32,6 @@ constuctor(title,detail){}
 
 }
 ```
-
-Make sure that all of your test cases are passed. Test cases can be checked - by opening -> index.html file.
 
 ### Progression 1: WRITE UP
 
