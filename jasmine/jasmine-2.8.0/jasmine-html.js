@@ -169,9 +169,9 @@ jasmineRequire.HtmlReporter = function (j$) {
       var alert = find('.jasmine-alert');
       var order = doneResult && doneResult.order;
       labName.appendChild(createDom('img', {
-        src: 'jasmine/jasmine-2.8.0/Logo-nav.png' // changed
+        src: 'https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png', // changed
       }, ''));
-      labName.appendChild(createDom('span', {}, 'DAY 3 | Lab - 1 | Chocolate Dispenser'));
+      labName.appendChild(createDom('span', {}, 'Blog-app'));
       alert.appendChild(createDom('span', {
         className: 'jasmine-duration'
       }, 'finished in ' + timer.elapsed() / 1000 + 's'));
