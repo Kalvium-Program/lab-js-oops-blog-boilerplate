@@ -81,4 +81,4 @@ Create two **functions** -
 
 ![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/blog-post-3.png)
 
-Happy Coding Kalvium❤️
+Happy Coding❤️
