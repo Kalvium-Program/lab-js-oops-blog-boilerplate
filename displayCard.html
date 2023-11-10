@@ -33,7 +33,7 @@
         </div>
     </div>
     <div id="popupContact">
-        <button id="close" class="button"> <img id="close" src="assets/close-button.svg"></button>
+        <button id="close" class="button" onclick="closeHandler()"> <img id="close" src="assets/close-button.svg"></button>
         <img id="rect" src="assets/rect.svg">
         <h2>Your Post</h2>
         <div id="card" >
@@ -45,5 +45,12 @@
     </div>
 </div>
 </body>
+<script>
+    function closeHandler(){
+  const del = document.getElementById('close');
+  location.reload();
+}
+    </script>
+   
 <script src="src/app.js"></script>
 </html>
